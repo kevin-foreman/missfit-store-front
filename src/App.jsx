@@ -12,7 +12,7 @@ function App() {
           <img src={missfitImage} className='logo'></img>
           </a>
       </div>
-      <h1>Missfit Merch</h1>
+      <h1>Swaggy Pop Culture Merch</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           Order count is {count}
