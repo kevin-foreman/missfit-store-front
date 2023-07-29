@@ -1,6 +1,7 @@
 import React from 'react';
 import { MERCH } from '../../merch';
 import { Merch } from './Merch';
+import './shop.css';
 
 export const Shop = () => {
     return (
