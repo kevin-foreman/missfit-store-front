@@ -1,7 +1,7 @@
 import gamerCup from './assets/gamer-cup.png';
 import stickerPack23 from './assets/gamer-stickers.png';
 
-export const PRODUCTS = [
+export const MERCH = [
     {
         id: 1,
         productName: "Gamer Cup",
