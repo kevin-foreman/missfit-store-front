@@ -8,8 +8,7 @@ export const Shop = () => {
             <div className='shopTitle'>
                 <h1> Missfit Shop </h1>
             </div>
-            <div className='merch'>
-                {" "}
+            <div className='merch' key={Merch.id}>
                 {MERCH.map((product) => (
                     <Merch data={product} />
                 ))}
